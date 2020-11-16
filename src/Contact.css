@@ -1,0 +1,17 @@
+.contact-style{
+    width: 100%;
+    padding: 3em 0;
+    /* height: 450px; */
+    /* display: flex;
+    justify-content: center;
+    align-items: center; */
+    background-color: lightgreen;
+    color: white;
+    margin: 0 auto;
+    /* display: table;
+    text-align: center; */
+}
+.contact-style h2{
+    text-align: center;
+    font-size: 28px;
+}
